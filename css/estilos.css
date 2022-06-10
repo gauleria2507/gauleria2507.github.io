@@ -1,0 +1,54 @@
+/*modificando una pagina html <> */
+.cuerpo1{
+	font-family:simbol;
+	font-size:20px;
+	text-align:justify;
+}
+.parrafo1{
+	font-family:simbol;
+	font-size:20px;
+	text-align:justify;
+	background:#e2936f;
+}
+.parrafo2{
+	font-family:simbol;
+	font-size:20px;
+	text-align:justify;
+	background:#e2936f;
+}
+.parrafo3{
+	font-family:simbol;
+	font-size:20px;
+	text-align:justify;
+	background:#e2936f;
+}
+.parrafo4{
+	font-family:simbol;
+	font-size:20px;
+	text-align:justify;
+	background:#faa638;
+}
+.imagen{
+	border-bottom:dotted;
+	border-color:#783f43;
+	border-radius:10%;
+	background:#552631;
+}
+.burrito1{
+	border-bottom:dotted;
+	border-color:#783f43;
+	border-radius:50%;
+	background:#552631;
+}
+.hermoso{
+	border-bottom:dotted;
+	border-color:#783f43;
+	border-radius:20%;
+	background:#552631;
+}
+.mevoy{
+	font-family:simbol;
+	font-size:50px;
+	text-align:center;
+	background:yellow;
+}
